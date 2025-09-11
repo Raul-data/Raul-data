@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) especializado en backend y gestión de datos.<br>Desarrollo aplicaciones Android y APIs REST en Java, con integración a bases de datos SQL/MySQL.<br>Aplico buenas prácticas de programación y metodologías modernas para construir software eficiente y escalable.<br>Actualmente, estoy aprendiendo React y Spring Boot para ampliar mis habilidades full-stack.<br>Me interesa colaborar en proyectos de software donde pueda aplicar mis conocimientos de programación y bases de datos.<br>Disfruto resolviendo problemas de datos y automatizando tareas mediante programación.<br>
+Estudiante DAM especializado en backend, bases de datos y análisis de datos.<br>Profundizo en Data Science, Big Data, Business Intelligence e Inteligencia Artificial aplicada.<br>Aplico buenas prácticas de programación, metodologías ágiles y automatización para proyectos.<br>Me interesa colaborar en software, análisis de datos y consultoría tecnológica.<br>Disfruto resolviendo problemas y optimizando procesos mediante datos.<br>
 
 
 ## 🌐 Socials:
