@@ -1,6 +1,12 @@
 # 💫 About Me:
-Estudiante DAM especializado en backend, bases de datos y análisis de datos.<br>Profundizo en Data Science, Big Data, Business Intelligence e Inteligencia Artificial aplicada.<br>Aplico buenas prácticas de programación, metodologías ágiles y automatización para proyectos.<br>Me interesa colaborar en software, análisis de datos y consultoría tecnológica.<br>Disfruto resolviendo problemas y optimizando procesos mediante datos.<br>
 
+👨‍💻 **Estudiante de DAM** con enfoque en **desarrollo backend**, **bases de datos** y **análisis de datos**.  
+🔍 Apasionado por **Data Science**, **Big Data**, **Business Intelligence** e **Inteligencia Artificial** aplicada.  
+💻 Comprometido con **buenas prácticas de programación**, **metodologías ágiles** y **automatización** para crear soluciones eficientes.  
+🚀 Interesado en colaborar en proyectos de **desarrollo de software**, **análisis de datos** y **consultoría tecnológica**.  
+⚙️ Disfruto **resolviendo problemas complejos** y **optimizando procesos** a través de datos y tecnología.
+
+📫 ¡Conecta conmigo para explorar oportunidades o colaborar en proyectos innovadores!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raúl-de-justo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rauljusto7@outlook.com) 
