@@ -1,12 +1,16 @@
-# 💫 About Me:
+# ¡Hola, soy Raúl! 🚀  
 
-👨‍💻 **Estudiante de DAM** con enfoque en **desarrollo backend**, **bases de datos** y **análisis de datos**.  
-🔍 Apasionado por **Data Science**, **Big Data**, **Business Intelligence** e **Inteligencia Artificial** aplicada.  
-💻 Comprometido con **buenas prácticas de programación**, **metodologías ágiles** y **automatización** para crear soluciones eficientes.  
-🚀 Interesado en colaborar en proyectos de **desarrollo de software**, **análisis de datos** y **consultoría tecnológica**.  
-⚙️ Disfruto **resolviendo problemas complejos** y **optimizando procesos** a través de datos y tecnología.
+💻 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque especial en **backend**, **bases de datos** y **análisis de datos**.  
+📊 Me interesa cómo los datos pueden transformarse en conocimiento y aplicarse en áreas como **Data Science**, **Big Data**, **Business Intelligence** e **Inteligencia Artificial**.  
 
-📫 ¡Conecta conmigo para explorar oportunidades o colaborar en proyectos innovadores!
+---
+
+## 🔍 Un poco sobre mí  
+- 🚀 Busco siempre soluciones **prácticas y eficientes**, tanto en código como en procesos.  
+- 🤝 Me motiva colaborar en proyectos de **software**, **análisis de datos** y **consultoría tecnológica**, aportando y aprendiendo en equipo.  
+- ⚙️ Me interesa aplicar **buenas prácticas de programación**, **metodologías ágiles** y **automatización** para crear proyectos con calidad.  
+
+--- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raúl-de-justo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rauljusto7@outlook.com) 
