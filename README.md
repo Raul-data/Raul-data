@@ -20,7 +20,12 @@
 ---
 
 # 💻 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,js,html,css)](https://skillicons.dev)<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css" />
+  </a>
+</p>
 
 
 ### 🗄️ Databases  
