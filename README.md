@@ -43,11 +43,7 @@
 </p>
 
 ---
-  ***
-  
-[<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-](https://github.com/Raul-data/Raul-data/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-  ***
+
 
 # 📊 GitHub Stats & Trophies  
 ![](https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>  ![](https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false)<br/>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
