@@ -33,13 +33,16 @@
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
-# 🛠️ Tools
+
+
+### 🛠️ Tools  
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=notion,git" />
   </a>
 </p>
+
 ---
 
 # 📊 GitHub Stats & Trophies  
