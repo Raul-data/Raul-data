@@ -21,10 +21,7 @@
 
 # 💻 Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,js,html,css)](https://skillicons.dev)<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css" />
-  </a>
-</p>
+
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
