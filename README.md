@@ -34,8 +34,11 @@
   </a>
 </p>
 ### 🛠️ Tools  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,git" />
+  </a>
+</p>
 ---
 
 # 📊 GitHub Stats & Trophies  
