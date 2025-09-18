@@ -43,17 +43,11 @@
 </p>
 
 ---
-<!-- diary starts -->
-<details open="true"><summary>2023-03-13</summary><li><a href="https://diary.jyunko.cn/2023/03/13/Mon.html">《余言后续》</a></li></details>
+  ***
+  
+<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
-<details open="true"><summary>2023-02-18</summary><li><a href="https://diary.jyunko.cn/2023/02/18/Sat.html">《308 - 2023.02.18》</a></li></details>
-
-<details open="true"><summary>2023-02-18</summary><li><a href="https://diary.jyunko.cn/2023/02/18/Test.html">《308 - 2023.02.18 Test》</a></li></details>
-
-<details open="true"><summary>2023-02-16</summary><li><a href="https://diary.jyunko.cn/2023/02/16/Thu.html">《308 - 2023.02.16》</a></li></details>
-
-<details open="true"><summary>2023-01-31</summary><li><a href="https://diary.jyunko.cn/2023/01/31/QY-dairy.html">《白秋日记（2023.01.31~2023.12.31）》</a></li></details>
-<!-- diary ends -->
+  ***
 
 # 📊 GitHub Stats & Trophies  
 ![](https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>  ![](https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false)<br/>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
