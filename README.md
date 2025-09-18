@@ -27,7 +27,7 @@
 </p>
 
 
-# 🗄️ Databases  
+## 🗄️ Databases  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -35,7 +35,7 @@
 </p>
 
 
-# 🛠️ Tools  
+### 🛠️ Tools  
 
 <p align="center">
   <a href="https://skillicons.dev">
