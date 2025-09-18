@@ -20,7 +20,7 @@
 ---
 
 # 💻 Tech Stack  
-(https://skillicons.dev/icons?i=py,java,kotlin,js,html,cssgma&theme=darko)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=py,java,kotlin,js,html,cssgma&theme=dark)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css" />
