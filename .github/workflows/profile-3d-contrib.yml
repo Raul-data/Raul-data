@@ -1,0 +1,30 @@
+name: Generar gráfico de contribuciones 3D
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta todos los días a medianoche
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generar gráfico 3D
+        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_dir: ./profile-3d-contrib
+          username: Raul-data
+          theme: night-rainbow
+      - name: Commit y push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add ./profile-3d-contrib
+          git commit -m "Actualizar gráfico de contribuciones 3D" || echo "No hay cambios para confirmar"
+          git push
