@@ -45,10 +45,10 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&layout=compact" height="165" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&layout=compact" height="165" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false" />
 </p>
 
