@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Ra%C3%BAl+%F0%9F%9A%80;Desarrollo+de+Aplicaciones+Multiplataforma;Especialista+en+Backend+y+Datos" alt="Typing SVG" />
-</div>
-
 # 👋 Hi, I'm Raúl! 🚀  
 
 💻 I'm currently studying **Multiplatform Application Development (DAM)**, focusing on **backend development**, **databases**, and **data analysis**.  
