@@ -61,6 +61,11 @@
 
 ---
 
+## 📈 Activity Graph  
+[![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=aura)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🌐 Connect with Me  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rauljusto7@outlook.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raúl-de-justo)  
 
