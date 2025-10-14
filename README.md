@@ -62,7 +62,7 @@
 ---
 
 ## 📈 Activity Graph  
-[![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=aura)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
