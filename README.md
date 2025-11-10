@@ -36,7 +36,7 @@
 ## 🛠️ Tools & Platforms  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,vscode" />
   </a>
 </p>
 
