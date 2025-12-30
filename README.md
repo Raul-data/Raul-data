@@ -52,50 +52,27 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Main stats - often unstable right now, but try with cache -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" 
-    alt="GitHub Stats" 
-  />
-  <br><br>
-  
-  <!-- Streak - this one is the most reliable currently -->
+  <!-- Streak stats - the most reliable one right now -->
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=dracula&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" 
     alt="Contribution Streak" 
   />
   <br><br>
   
-  <!-- Top languages - compact + cache to reduce failures -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=dracula&hide_border=true&layout=compact&cache_seconds=86400" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <!-- Trophies - add rank=SECRET if you want to show hidden ones; often fails, but worth a try -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=dracula&no-frame=true&no-bg=true&margin-w=15&rank=SECRET" 
-    alt="GitHub Trophies" 
-  />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <!-- Activity graph - usually more stable than stats cards -->
+  <!-- Activity graph - usually works well -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=dracula" 
     alt="GitHub Activity Graph" 
   />
 </p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=dracula&hide_border=true&layout=compact&cache_seconds=86400" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+
+
 ---
 
 ## 🌐 Connect with Me
