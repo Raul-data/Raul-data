@@ -1,26 +1,20 @@
 # 👋 Hi, I'm Raúl! 🚀
+💻 I'm currently studying **Multiplatform Application Development (DAM)**, focusing on **backend development**, **databases**, and **data analysis**.  
+📊 Passionate about turning data into insights through **Data Science**, **Big Data**, **Business Intelligence**, and **Artificial Intelligence**.  
 
-💻 Currently studying **Multiplatform Application Development (DAM)**, focusing on  
-**backend development**, **databases**, and **data analysis**.
-
-📊 Passionate about turning data into actionable insights through **Data Science**,  
-**Big Data**, **Business Intelligence**, and **Artificial Intelligence**.
-
-> *"Data tells a story — you just need to know how to read it."*
+> *"Data tells a story—you just need to know how to read it."*
 
 ---
 
 ## 🔍 About Me
-
-- 🚀 Always looking for **practical and efficient solutions** in both code and workflows
-- 🤝 Open to collaborate on **software development**, **data-driven**, and **tech innovation** projects
-- ⚙️ Big fan of **clean code**, **agile methodologies**, and **automation**
-- 🌱 Currently learning **Spring Boot**, **Pandas**, and **machine learning fundamentals**
+- 🚀 Constantly seeking **practical and efficient solutions** in both code and workflow.
+- 🤝 Eager to collaborate on **software development**, **data-driven**, and **tech innovation** projects.
+- ⚙️ Enthusiastic about **clean code**, **agile methodologies**, and **automation** to deliver high-quality, scalable software.
+- 🌱 Currently learning **Spring Boot**, **Pandas**, and **machine learning fundamentals**.
 
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,kotlin,js,html,css" />
@@ -30,84 +24,49 @@
 ---
 
 ## 🗄️ Databases
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
 
 ---
 
 ## 🛠️ Tools & Platforms
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,idea,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,vscode" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <!-- Main stats - often unstable right now, but try with cache -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" 
-    alt="GitHub Stats" 
-  />
-  <br><br>
-  
-  <!-- Streak - this one is the most reliable currently -->
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=dracula&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" 
-    alt="Contribution Streak" 
-  />
-  <br><br>
-  
-  <!-- Top languages - compact + cache to reduce failures -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=dracula&hide_border=true&layout=compact&cache_seconds=86400" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=radical" alt="Raul's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
 ---
 
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Achievements
 <p align="center">
-  <!-- Trophies - add rank=SECRET if you want to show hidden ones; often fails, but worth a try -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=dracula&no-frame=true&no-bg=true&margin-w=15&rank=SECRET" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+
 ---
 
 ## 📈 Activity Graph
+[![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <!-- Activity graph - usually more stable than stats cards -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=dracula" 
-    alt="GitHub Activity Graph" 
-  />
-</p>
 ---
 
 ## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:Rauljusto7@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raúl-de-justo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rauljusto7@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raúl-de-justo)
 
 ---
 
-Let's collaborate on something awesome! 🚀
+¡Colaboremos en proyectos innovadores! 🚀
