@@ -43,20 +43,20 @@
 
 # 📊 GitHub Stats & Trophies
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=radical" 
+    src="https://TU-APP.vercel.app/api?username=Raul-data&show_icons=true&theme=radical" 
     alt="Raul's GitHub stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&layout=compact&theme=radical" 
+    src="https://TU-APP.vercel.app/api/top-langs/?username=Raul-data&layout=compact&theme=radical" 
     alt="Top Langs" 
   />
 </p>
-
 
 ---
 
