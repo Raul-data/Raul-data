@@ -49,14 +49,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Main stats - often unstable right now, but try with cache -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" 
+    alt="GitHub Stats" 
+  />
   <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=github-dark&hide_border=true" alt="Contribution Streak" />
+  
+  <!-- Streak - this one is the most reliable currently -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=dracula&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" 
+    alt="Contribution Streak" 
+  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  
+  <!-- Top languages - compact + cache to reduce failures -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=dracula&hide_border=true&layout=compact&cache_seconds=86400" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
@@ -64,15 +78,24 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <!-- Trophies - add rank=SECRET if you want to show hidden ones; often fails, but worth a try -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=dracula&no-frame=true&no-bg=true&margin-w=15&rank=SECRET" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p align="center">
+  <!-- Activity graph - usually more stable than stats cards -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=dracula" 
+    alt="GitHub Activity Graph" 
+  />
+</p>
 ---
 
 ## 🌐 Connect with Me
