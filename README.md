@@ -8,6 +8,7 @@
 ---
 
 ## 🔍 About Me  
+
 - 🚀 Constantly seeking **practical and efficient solutions** in both code and workflow.  
 - 🤝 Eager to collaborate on **software development**, **data-driven**, and **tech innovation** projects.  
 - ⚙️ Enthusiastic about **clean code**, **agile methodologies**, and **automation** to deliver high-quality, scalable software.  
@@ -16,6 +17,7 @@
 ---
 
 ## 💻 Tech Stack  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,kotlin,js,html,css" />
@@ -25,6 +27,7 @@
 ---
 
 ## 🗄️ Databases  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -34,6 +37,7 @@
 ---
 
 ## 🛠️ Tools & Platforms  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,notion,vscode" />
@@ -42,12 +46,18 @@
 
 ---
 
-# 📊 GitHub Stats & Trophies  
-![](https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>  ![](https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false)<br/>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats & Trophies  
+
+![](https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Achievements  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
@@ -55,13 +65,15 @@
 ---
 
 ## 📈 Activity Graph  
+
 [![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🌐 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rauljusto7@outlook.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raúl-de-justo)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rauljusto7@outlook.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-de-justo)  
 
 ---
-We collaborate on innovative projects!🚀
 
+Let's collaborate on innovative projects! 🚀
