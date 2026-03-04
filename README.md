@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raúl! 🚀  
 
-💻 I'm currently studying **Multiplatform Application Development (DAM)**, focusing on **backend development**, **databases**, and **data analysis**.  
-📊 Passionate about turning data into insights through **Data Science**, **Big Data**, **Business Intelligence**, and **Artificial Intelligence**.  
+💻 Specializing in **backend development**, **databases**, and **data analysis** to build scalable solutions.  
+📊 Passionate about turning data into actionable insights through **Data Science**, **Big Data**, **Business Intelligence**, and **Artificial Intelligence**.  
 
 > *"Data tells a story—you just need to know how to read it."*  
 
@@ -46,13 +46,16 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies  
+## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false" width="48%" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ---
 
