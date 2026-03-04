@@ -58,9 +58,7 @@
 
 ## 🏆 GitHub Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raul-data&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
