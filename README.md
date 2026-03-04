@@ -55,6 +55,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false" width="48%" />
+</p>
+
 ---
 
 ## 📈 Activity Graph  
