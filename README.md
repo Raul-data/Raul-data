@@ -56,12 +56,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raul-data&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 📈 Activity Graph  
 
 [![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
