@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raúl! 🚀  
 
-💻 Specializing in **backend development**, **databases**, and **data analysis** to build scalable solutions.  
+💻 Specializing in **databases**, **data analysis**, and **backend development** to build scalable solutions.  
 📊 Passionate about turning data into actionable insights through **Data Science**, **Big Data**, **Business Intelligence**, and **Artificial Intelligence**.  
 
 > *"Data tells a story—you just need to know how to read it."*  
@@ -11,9 +11,7 @@
 
 - 🚀 Constantly seeking **practical and efficient solutions** in both code and workflow.  
 - 🤝 Eager to collaborate on **software development**, **data-driven**, and **tech innovation** projects.  
-- ⚙️ Enthusiastic about **clean code**, **agile methodologies**, and **automation** to deliver high-quality, scalable software.  
-- 🌱 Currently learning **Spring Boot**, **Pandas**, and **machine learning fundamentals**.  
-
+- ⚙️ Enthusiastic about **clean code**, **agile methodologies**, and **automation** to deliver high-quality, scalable software.
 ---
 
 ## 💻 Tech Stack  
@@ -47,11 +45,6 @@
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
