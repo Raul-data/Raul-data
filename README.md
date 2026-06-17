@@ -53,7 +53,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Raul-data&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Activity Graph  
