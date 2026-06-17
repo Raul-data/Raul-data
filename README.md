@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
   </a>
 </p>
 
