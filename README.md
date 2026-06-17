@@ -47,7 +47,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Raul-data&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raul-data&theme=tokyonight" />
 </p>
 
 ---
