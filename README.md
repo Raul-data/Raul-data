@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Raul-data&theme=aura&hide_border=false" width="48%" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Raul-data&theme=tokyonight)
 </p>
 
 ---
