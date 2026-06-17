@@ -80,13 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raul-data&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
