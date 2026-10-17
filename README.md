@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Raúl!</h1>
-
-<h3 align="center">Data Analyst | BI Enthusiast</h3>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Raúl - Data Analyst | BI Enthusiast" width="100%" />
+</p>
 
 <p align="center">
   💻 Specializing in <b>databases</b> and <b>data analysis</b> to build efficient, data-driven solutions.<br>
@@ -80,8 +80,9 @@
 ---
 
 <p align="center">
-  <b>Always open to learning, collaborating and contributing to innovative projects.</b>
+  ⭐ <b>Always open to learning, collaborating and contributing to innovative projects.</b>
 </p>
+
 
 <p align="center">
   <b>"Data tells a story. You just need to know how to read it."</b>
