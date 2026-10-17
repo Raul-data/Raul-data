@@ -1,115 +1,65 @@
-# 👋 Hi, I'm Raúl!
+<h1 align="center">Hi, I'm Raúl 👋</h1>
 
-### Data Analyst | BI Enthusiast | Backend Developer
-
-💻 Specializing in **databases**, **data analysis**, and **backend development** to build scalable solutions.
-
-📊 Passionate about turning data into actionable insights through **Data Science**, **Big Data**, **Business Intelligence**, and **Artificial Intelligence**.
-
-> *"Data tells a story—you just need to know how to read it."*
-
----
-
-## 🔍 About Me
-
-* 🚀 Constantly seeking practical and efficient solutions in both code and workflow.
-* 🤝 Eager to collaborate on software development, data-driven, and tech innovation projects.
-* ⚙️ Enthusiastic about clean code, agile methodologies, and automation.
-* 📈 Interested in Data Analytics, Business Intelligence, Data Engineering, and Software Development.
-* 🎯 Currently expanding my skills in data visualization, automation, and cloud technologies.
-
----
-
-## 🎯 Areas of Interest
-
-* 📊 Data Analysis
-* 📈 Business Intelligence
-* 📉 Data Visualization
-* ⚙️ Backend Development
-* 🗄️ Database Design
-* 🤖 Artificial Intelligence
-* 🔄 Process Automation
-
----
-
-## 💻 Tech Stack
+<h3 align="center">Data Analyst · Business Intelligence · Backend Developer</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
-  </a>
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=tokyonight" />
+  I build scalable backend solutions and turn raw data into actionable insights.<br>
+  Focused on databases, data analysis and clean, maintainable code.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raul-data&theme=tokyonight" />
-</p>
-
----
-
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
-## 📈 Activity Graph
-
-[![Raul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul-data\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:Rauljusto7@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-
   <a href="https://linkedin.com/in/raul-de-justo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rauljusto7@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🚀 Current Focus
+## About Me
 
-* Developing backend applications with Java.
-* Working with databases and data management.
-* Learning advanced Data Analytics and Business Intelligence.
-* Building projects that combine software development and data analysis.
+I'm a data and software professional who enjoys working where **backend development** meets **data analysis**. I care about clean code, automation and solutions that are efficient and easy to maintain.
+
+- 🔭 **Currently working on:** backend applications with Python and database-driven projects
+- 📚 **Currently learning:** advanced Data Analytics, Business Intelligence, data visualization and cloud technologies
+- 🤝 **Open to:** collaborating on software, data and automation projects
+- 🎯 **Looking for:** opportunities in Data Analytics, BI and Backend Development
 
 ---
 
-⭐ **Always open to learning, collaborating, and contributing to innovative projects.**
+## Tech Stack
+
+**Languages & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Languages" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" alt="Tools" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raul-data&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-data&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Data tells a story. You just need to know how to read it."</i>
+</p>
