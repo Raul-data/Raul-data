@@ -81,7 +81,7 @@
 ## ▌Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/raul-de-justo">
+  <a href="https://linkedin.com/in/raúl-de-justo">
     <img src="https://img.shields.io/badge/LinkedIn-E10600?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:Rauljusto7@outlook.com">
