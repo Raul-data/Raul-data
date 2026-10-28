@@ -95,7 +95,3 @@
   <b>Always open to learning, collaborating and contributing to innovative projects.</b>
 </p>
 
-
-<p align="center">
-  <b>"Data tells a story. You just need to know how to read it."</b>
-</p>
